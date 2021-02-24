@@ -5,3 +5,6 @@ system requirment :
 - MySQL versi ...
 - HTTP Apache
 - Redis
+- Python
+
+Mayada
